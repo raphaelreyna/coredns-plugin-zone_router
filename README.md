@@ -1,0 +1,1 @@
+This plugin enables precise DNS query routing to different backends based on subdomains within a zone.
